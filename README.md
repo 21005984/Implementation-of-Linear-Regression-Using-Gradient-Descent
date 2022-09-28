@@ -105,7 +105,5 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ![Screenshot 2022-09-28 134638](https://user-images.githubusercontent.com/94748389/192727077-3f4f5f5c-d7d6-4594-9f33-7dec59b0ff4a.png)
 
 
-
-
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
