@@ -95,14 +95,15 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
-![Screenshot 2022-09-28 134057](https://user-images.githubusercontent.com/94748389/192725670-ad33806d-9bde-4591-89c3-f0bc61126474.png)
-![Screenshot 2022-09-28 134548](https://user-images.githubusercontent.com/94748389/192726793-c2dd465a-ee91-49a5-bfd7-b1d81891e0b8.png)
-![Screenshot 2022-09-28 134605](https://user-images.githubusercontent.com/94748389/192726871-bd97a7b1-64c6-4797-b604-18fe9fadc6e3.png)
-![Screenshot 2022-09-28 134131](https://user-images.githubusercontent.com/94748389/192725701-f84940b4-64bf-40ec-a54b-e213e680c467.png)
-![Screenshot 2022-09-28 134147](https://user-images.githubusercontent.com/94748389/192725740-9d991ff1-a4df-4b50-a925-0c8fafe6ae02.png)
-![Screenshot 2022-09-28 134623](https://user-images.githubusercontent.com/94748389/192727027-1e97eccb-7539-4aff-a6d2-57b7560b593b.png)
-![Screenshot 2022-09-28 134638](https://user-images.githubusercontent.com/94748389/192727077-3f4f5f5c-d7d6-4594-9f33-7dec59b0ff4a.png)
+![Screenshot 2022-09-28 134057](https://user-images.githubusercontent.com/94748389/192728540-c4c4c597-de82-4036-ab0f-747daac6d152.png)
+![Screenshot 2022-09-28 134548](https://user-images.githubusercontent.com/94748389/192728629-0cbc1b25-cbf1-4de6-97ac-5f9a95a8fac9.png)
+![Screenshot 2022-09-28 134605](https://user-images.githubusercontent.com/94748389/192728657-94a74a18-116a-4489-88a0-4841b6f3d0f2.png)
+![Screenshot 2022-09-28 134131](https://user-images.githubusercontent.com/94748389/192728576-e1fa2ece-ee8b-405f-86d2-72b5677651e3.png)
+![Screenshot 2022-09-28 134147](https://user-images.githubusercontent.com/94748389/192728608-3c54c16b-69e8-4e4e-b8bc-a5ce51884e7b.png)
+![Screenshot 2022-09-28 134623](https://user-images.githubusercontent.com/94748389/192728710-5fbe1613-b9b6-4632-884e-2513ca7cd44d.png)
+![Screenshot 2022-09-28 134638](https://user-images.githubusercontent.com/94748389/192728740-fd897a3b-ba4b-4586-ad7d-1a4d91494eee.png)
+
+
 
 
 ## Result:
